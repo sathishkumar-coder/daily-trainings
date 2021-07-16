@@ -1,4 +1,4 @@
- import string 
+import string 
 str_input=input()
 missing=""
 for i in string.ascii_lowercase:
